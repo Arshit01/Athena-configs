@@ -1,0 +1,16 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+
+# /dev/nvme0n1p1 (EFI System Partition)
+UUID=0A8A-DA02    /efi        vfat        defaults,noatime    0 2
+
+# /dev/nvme0n1p3 (Root Partition)
+UUID=c930f8d4-a0d0-4bcb-948f-ca7477196420    /             ext4        defaults,noatime    0 1
+
+# /dev/nvme0n1p2 (180G)
+UUID=75081355-4b56-4c8c-a90d-90072e3ca275    /mnt/extra  ext4       defaults,noatime    0 0
+
+# /dev/nvme0n1p4 (140G)
+UUID=35625360-23e7-406f-a579-77617093ef5c    /mnt/storage    ext4        defaults,noatime    0 0
