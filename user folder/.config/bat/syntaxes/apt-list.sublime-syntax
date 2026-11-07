@@ -1,0 +1,25 @@
+%YAML 1.2
+---
+name: APT Package List
+file_extensions:
+  - aptlist
+scope: source.apt-list
+
+contexts:
+  main:
+    - match: '^(\S+)(/)(\S+)(\s+)(\S+)(\s+)(\S+)(\s+)(\[installed\])'
+      captures:
+        1: entity.name.package
+        2: punctuation.separator
+        3: entity.name.namespace
+        5: constant.numeric.version
+        7: storage.type.architecture
+        9: keyword.other.installed
+
+    - match: '^(\S+)(/)(\S+)(\s+)(\S+)(\s+)(\S+)'
+      captures:
+        1: entity.name.package
+        2: punctuation.separator
+        3: entity.name.namespace
+        5: constant.numeric.version
+        7: storage.type.architecture
