@@ -1,0 +1,1 @@
+root=UUID=c930f8d4-a0d0-4bcb-948f-ca7477196420 systemd-measure=yes lsm=landlock,lockdown,yama,integrity,apparmor,bpf quiet loglevel=3 nvme_load=yes zswap.enabled=0 nowatchdog splash
