@@ -1,0 +1,8 @@
+[General]
+BackgroundColor=85,0,255
+DefaultProtocol=rdp
+ResizeOnConnect=false
+ShowStatusBar=true
+
+[RDP]
+ShareMedia=/home/hac_king/Public/
