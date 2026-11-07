@@ -1,0 +1,245 @@
+[
+    {
+        "created": "2026-07-18T09:30:17.843Z",
+        "items": [
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "creation_time": "2023-05-10T11:59:54.000000Z",
+                    "major_brand": "isom",
+                    "minor_version": "1"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/2024/PEN200/14.%20Tunneling%20Through%20Deep%20Packet%20Inspection/14.1.%20HTTP%20Tunneling%20Theory%20and%20Practice/14.1.2.%20HTTP%20Tunneling%20with%20Chisel%20.mp4",
+                "uuid": "ddf3d934-2fd8-4581-87a9-0b2297e4bb0b"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "encoder": "Lavf63.1.102",
+                    "major_brand": "isom",
+                    "minor_version": "512"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/Extras%20Hacktrack/AV%20Evasion.mp4",
+                "uuid": "2296cbe5-91a7-47f1-8008-4a116d431588"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "encoder": "Lavf63.1.102",
+                    "major_brand": "isom",
+                    "minor_version": "512"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/Extras%20Hacktrack/Windows%20Privilege%20Escalation.mp4",
+                "uuid": "ec2f3623-e090-4a81-82b1-ab2593e964a0"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "encoder": "Lavf63.1.102",
+                    "major_brand": "isom",
+                    "minor_version": "512"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/Extras%20Hacktrack/Port%20Redirection%20and%20Tunneling.mp4",
+                "uuid": "d609da26-431d-44f3-92c3-c87121d42d8a"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/PEN200/Metdtech/121.mkv",
+                "uuid": "80915ef7-e182-4e01-b4b1-7404b9aef58d"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "creation_time": "2023-05-10T11:00:45.000000Z",
+                    "major_brand": "isom",
+                    "minor_version": "1"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/2024/PEN200/13.%20Port%20Redirection%20and%20SSH%20Tunneling/13.1.%20Port%20Forwarding%20with%20Linux%20Tools/13.1.1.%20A%20Simple%20Port%20Forwarding%20Scenario%20.mp4",
+                "uuid": "9fa77413-9c29-44ac-b529-f10c311f1c80"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "creation_time": "2023-05-10T11:01:34.000000Z",
+                    "major_brand": "isom",
+                    "minor_version": "1"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/2024/PEN200/13.%20Port%20Redirection%20and%20SSH%20Tunneling/13.1.%20Port%20Forwarding%20with%20Linux%20Tools/13.1.2.%20Setting%20Up%20the%20Lab%20Environment%20.mp4",
+                "uuid": "3c165aca-a10a-423f-8a43-9d95ec26d65b"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "creation_time": "2023-05-10T11:01:19.000000Z",
+                    "major_brand": "isom",
+                    "minor_version": "1"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/2024/PEN200/13.%20Port%20Redirection%20and%20SSH%20Tunneling/13.1.%20Port%20Forwarding%20with%20Linux%20Tools/13.1.3.%20Port%20Forwarding%20with%20Socat%20.mp4",
+                "uuid": "8fe2bf64-39f0-4828-b2cd-8f970e39876c"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "creation_time": "2023-05-10T11:59:54.000000Z",
+                    "major_brand": "isom",
+                    "minor_version": "1"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/2024/PEN200/14.%20Tunneling%20Through%20Deep%20Packet%20Inspection/14.1.%20HTTP%20Tunneling%20Theory%20and%20Practice/14.1.2.%20HTTP%20Tunneling%20with%20Chisel%20.mp4",
+                "uuid": "a5e9651b-5aee-4358-a59a-4e52cb9d8473"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "creation_time": "2023-05-10T12:02:07.000000Z",
+                    "major_brand": "isom",
+                    "minor_version": "1"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/2024/PEN200/14.%20Tunneling%20Through%20Deep%20Packet%20Inspection/14.2.%20DNS%20Tunneling%20Theory%20and%20Practice/14.2.1.%20DNS%20Tunneling%20Fundamentals%20.mp4",
+                "uuid": "61f2a2d0-9366-4e77-9050-1b3b4583704e"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "creation_time": "2023-05-10T12:02:15.000000Z",
+                    "major_brand": "isom",
+                    "minor_version": "1"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/2024/PEN200/14.%20Tunneling%20Through%20Deep%20Packet%20Inspection/14.2.%20DNS%20Tunneling%20Theory%20and%20Practice/14.2.2.%20DNS%20Tunneling%20with%20dnscat2%20.mp4",
+                "uuid": "ec009477-9c98-47c8-a3b7-0e2b574357cd"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/PEN200/Metdtech/121.mkv",
+                "uuid": "653d1f70-050a-43de-b28d-4183bbec223d"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "creation_time": "2024-10-01T07:55:57.000000Z",
+                    "major_brand": "isom",
+                    "minor_version": "1"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/2024/PEN200/11.%20Windows%20Privilege%20Escalation/11.2.%20Leveraging%20Windows%20Services/11.2.1.%20Service%20Binary%20Hijacking%20.mp4",
+                "uuid": "7103dff8-d18f-4255-828f-9462ff557218"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/Videos/2026-11-03%2017-35-57.mkv",
+                "uuid": "b2750c61-54b3-4ddb-9ae7-cdf5eddcd2d9"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/Videos/2026-11-03%2017-35-57.mkv",
+                "uuid": "150c3f1e-3fde-4961-a236-eef48c479baa"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/PEN200/Metdtech/rec/1.mkv",
+                "uuid": "87d44cf1-36e7-4aae-a998-7e268ab06d31"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/PEN200/Metdtech/rec/2.mkv",
+                "uuid": "63250ad2-8f98-4cad-a7a5-075ad8904d0b"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/PEN200/Metdtech/rec/3.mkv",
+                "uuid": "e959ac86-7b4a-49f8-9034-5877dbab651c"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/PEN200/Metdtech/rec/2.mkv",
+                "uuid": "6b983dac-256a-4538-ba69-180115927c33"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "dashmp42iso6avc1",
+                    "creation_time": "2025-11-09T11:45:25.000000Z",
+                    "major_brand": "dash",
+                    "minor_version": "0"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/Extras%20Hacktrack/media%20%5Bmedia%5D.mp4",
+                "uuid": "d631f5d9-27de-433d-8676-7f12c0d5d627"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "dashmp42iso6avc1",
+                    "creation_time": "2025-11-09T11:48:49.000000Z",
+                    "major_brand": "dash",
+                    "minor_version": "0"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/Extras%20Hacktrack/media%20%5Bmedia%5D.mp4",
+                "uuid": "c0ab5a17-162c-47f5-9f99-1b00cfef0c76"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "dashmp42iso6avc1",
+                    "creation_time": "2025-11-09T11:48:49.000000Z",
+                    "major_brand": "dash",
+                    "minor_version": "0"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/Extras%20Hacktrack/media%20%5Bmedia%5D.mp4",
+                "uuid": "cf9661f8-238e-488d-a942-e822fcac6e92"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "encoder": "Lavf63.1.102",
+                    "major_brand": "isom",
+                    "minor_version": "512"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/Extras%20Hacktrack/file.mp4",
+                "uuid": "3b49fe8f-5814-4e3c-8309-c2faed2d7de9"
+            },
+            {
+                "metadata": {
+                    "compatible_brands": "isomiso2avc1mp41",
+                    "encoder": "Lavf63.1.102",
+                    "major_brand": "isom",
+                    "minor_version": "512"
+                },
+                "url": "file:///home/hac_king/Courses/OSCP/Extras%20Hacktrack/Password%20Attacks.mp4",
+                "uuid": "8ab9e887-36d5-4e56-93db-498d045e9be0"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/PEN200/OSCP_A/rec/1.mkv",
+                "uuid": "fd864a86-a736-427a-95b2-bc0a341dc66b"
+            },
+            {
+                "metadata": {
+                    "encoder": "Lavf63.1.102"
+                },
+                "url": "file:///home/hac_king/PEN200/OSCP_A/rec/1.mkv",
+                "uuid": "58ac485c-a203-4cd3-9a59-4a194c2f50f1"
+            }
+        ],
+        "nowplaying": "fd864a86-a736-427a-95b2-bc0a341dc66b",
+        "repeat": false,
+        "shuffle": false,
+        "title": "Quick Playlist",
+        "uuid": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+        "currentPlaylist": "00000000-0000-0000-0000-000000000000"
+    }
+]

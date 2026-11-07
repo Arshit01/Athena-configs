@@ -1,0 +1,78 @@
+{
+    "LibraryWindow": {
+        "geometry": {
+            "h": 300,
+            "w": 400,
+            "x": 760,
+            "y": 390
+        }
+    },
+    "LogWindow": {
+        "geometry": {
+            "h": 455,
+            "w": 566,
+            "x": 677,
+            "y": 313
+        }
+    },
+    "MainWindow": {
+        "geometry": {
+            "h": 695,
+            "w": 1043,
+            "x": 0,
+            "y": 0
+        },
+        "maximized": true,
+        "state": {
+            "actionAudioFilterAcompressor": false,
+            "actionAudioFilterCrossfeed": false,
+            "actionAudioFilterExtrastereo": false,
+            "actionDisableVideoAspect": false,
+            "actionPlaySubtitlesEnabled": false,
+            "actionPlayVolumeMute": false,
+            "actionViewFullscreen": false,
+            "actionViewHideCapture": false,
+            "actionViewHideControls": true,
+            "actionViewHideControlsInFullscreen": false,
+            "actionViewHideInformation": false,
+            "actionViewHideLibrary": false,
+            "actionViewHideLog": false,
+            "actionViewHideNavigation": false,
+            "actionViewHidePlaylist": false,
+            "actionViewHideSeekbar": true,
+            "actionViewHideStatistics": false,
+            "actionViewHideStatus": true,
+            "actionViewHideSubresync": false,
+            "actionViewMusicMode": false,
+            "actionViewOntopAlways": true,
+            "actionViewOntopDefault": false,
+            "actionViewOntopPlaying": false,
+            "actionViewOntopVideo": false,
+            "decorationState": 0,
+            "shownStatsPage": 0,
+            "timePercentageMode": false,
+            "timeRemainingMode": false,
+            "timeShortMode": true,
+            "volume": 100
+        }
+    },
+    "PropertiesWindow": {
+        "geometry": {
+            "h": 483,
+            "w": 400,
+            "x": 0,
+            "y": 0
+        }
+    },
+    "SettingsWindow": {
+        "geometry": {
+            "h": 688,
+            "w": 896,
+            "x": 1920,
+            "y": 0
+        }
+    },
+    "mpvHost": {
+        "qtState": "AAAA/wAAAAD9AAAAAQAAAAEAAAESAAADwvwCAAAAAfsAAAAcAHAAbABhAHkAbABpAHMAdABXAGkAbgBkAG8AdwgAAAAAAAADwgAAAL0A////AAAHgAAAA5IAAAAEAAAABAAAAAgAAAAI/AAAAAA="
+    }
+}
